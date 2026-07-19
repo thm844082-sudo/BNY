@@ -1,0 +1,17 @@
+# Compiled binaries
+*.o
+*.exe
+
+# Build outputs
+output/
+
+# Temporary files
+*.tmp
+*.log
+
+# Editor files
+.vscode/
+.idea/
+
+# Linux swap
+*.swp
